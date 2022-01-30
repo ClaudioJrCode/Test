@@ -1,4 +1,4 @@
-{{
+[{
 "id": 1,
 "marca": "Honda",
 "nome": "HR-V",
@@ -42,5 +42,5 @@
 "transmissao": "Automático",
 "foto": "05.jpg",
 "preco": 74900
-}}
+}]
 
