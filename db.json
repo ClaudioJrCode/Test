@@ -1,5 +1,4 @@
-{
-"usados":[
+[
 {
 "id": 1,
 "marca": "Honda",
@@ -44,6 +43,7 @@
 "transmissao": "Automático",
 "foto": "05.jpg",
 "preco": 74900
-}]
 }
+]
+
 
